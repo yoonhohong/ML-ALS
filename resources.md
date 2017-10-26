@@ -11,7 +11,7 @@ Balendra et al. Estimating clinical stage of amyotrophic lateral sclerosis from 
 ## Websites
 [survival analysis in R](https://www.r-bloggers.com/survival-analysis-with-r/)  
 [fitting distributions in R](https://cran.r-project.org/doc/contrib/Ricci-distributions-en.pdf)  
-[times series data analysis in R](https://onlinecourses.science.psu.edu/stat510/node/47)
+[times series data analysis in R](https://onlinecourses.science.psu.edu/stat510/node/47)  
 [times series modeling in R](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)
 
 
